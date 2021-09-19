@@ -6,6 +6,9 @@ namespace Building
 {
     class DamBuilder : Builder
     {
-
+        public void Build()
+        {
+            Console.WriteLine("“Building a dam on the river");
+        }
     }
 }

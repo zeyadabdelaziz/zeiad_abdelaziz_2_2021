@@ -6,6 +6,9 @@ namespace Building
 {
     class HouseBuilder : Builder
     {
-
+        public void Build()
+        {
+            Console.WriteLine("Building a house");
+        }
     }
 }
