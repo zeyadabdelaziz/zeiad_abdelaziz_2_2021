@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InvoicesManager", "Invoices
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry", "Geometry\Geometry.csproj", "{66C900E8-FE88-455A-9000-A6B5FD0D941C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Building", "Building\Building.csproj", "{A3C37B22-9C68-4CA3-A432-71DB7AC76C67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{66C900E8-FE88-455A-9000-A6B5FD0D941C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66C900E8-FE88-455A-9000-A6B5FD0D941C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66C900E8-FE88-455A-9000-A6B5FD0D941C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C37B22-9C68-4CA3-A432-71DB7AC76C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C37B22-9C68-4CA3-A432-71DB7AC76C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C37B22-9C68-4CA3-A432-71DB7AC76C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C37B22-9C68-4CA3-A432-71DB7AC76C67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
